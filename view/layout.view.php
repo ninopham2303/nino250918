@@ -139,7 +139,7 @@
                 <div id="search">
                   <form>
                     <div class="input-group">
-                      <input type="text" class="form-control" placeholder="Search" name="search">
+                      <input type="text" class="form-control" placeholder="Anh sai rồi ..." name="search">
                       <button class="btn-search" type="button">
                         <i class="fa fa-search"></i>
                       </button>
